@@ -1,7 +1,7 @@
 # ProgrammerLangAPI
 An API consisting of 3 sections namely : Programmer, Languages, Paradigm. 
 
-According to logical view,
+According to logical fact,
 
 A programmer can know multiple languages and so has a manytomany model relationship with languages.
 
